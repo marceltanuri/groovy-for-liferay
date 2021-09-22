@@ -1,5 +1,0 @@
-h1. Liferay Admin Scripts
-
-A collection of scripts to run in the Liferay admin script console
-
-origin by Sébastien Le Marchand
