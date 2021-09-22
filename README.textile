@@ -1,6 +1,5 @@
 h1. Liferay Admin Scripts
 
-"http://github.com/slemarchand/liferay-admin-scripts/":http://github.com/slemarchand/liferay-admin-scripts/
-by Sébastien Le Marchand
-
 A collection of scripts to run in the Liferay admin script console
+
+origin by SÃ©bastien Le Marchand
